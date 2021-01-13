@@ -10,10 +10,10 @@ const process = require('process');
 
 
 const templates = [
-    {name: 'WEB开发模板-SPA', value: {url: 'https://github.com/SCV1025/ReactScv/#web-spa', branch: 'web-spa'}},
-    {name: '小程序开发模板-REMAX ONE', value: {url: 'https://github.com/SCV1025/ReactScv/#remax-one', branch: 'remax-one'}},
-    {name: 'WEB服务端界面开发模板-SPA', value: {url: 'https://github.com/SCV1025/ReactScv/#admin-spa', branch: 'admin-spa'}},
-    {name: 'ReactNative的开发模板', value: {url: 'https://github.com/SCV1025/ReactScv/#react-native', branch: 'react-native'}}
+    {name: 'WEB开发模板-SPA', value: {url: 'https://github.com/SCV1025/rscv/#web-spa', branch: 'web-spa'}},
+    {name: '小程序开发模板-REMAX ONE', value: {url: 'https://github.com/SCV1025/rscv/#remax-one', branch: 'remax-one'}},
+    {name: 'WEB服务端界面开发模板-SPA', value: {url: 'https://github.com/SCV1025/rscv/#admin-spa', branch: 'admin-spa'}},
+    {name: 'ReactNative的开发模板', value: {url: 'https://github.com/SCV1025/rscv/#react-native', branch: 'react-native'}}
 ]
 
 
